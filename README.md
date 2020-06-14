@@ -1,2 +1,2 @@
-# cpppideupdate.github.io
-This github.io is used in C+++ update service.
+# cpppideupdate
+This github page is used in C+++ update service.
